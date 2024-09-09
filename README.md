@@ -1,0 +1,2 @@
+# Gemini_AI_rename_images
+Gemini_AI_rename_images_after_reviewing
